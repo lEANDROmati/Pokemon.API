@@ -1,0 +1,11 @@
+.poke-button{
+    display: flex;
+    margin: auto;
+    background-image: linear-gradient(#29282400 , #afa551);
+    color:black ;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 3px rgb(192, 194, 81) solid;
+   cursor: pointer;
+}
